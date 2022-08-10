@@ -1,5 +1,3 @@
-# CSCI_3500_A4
-
 # Objective
 The goal of this program is to explore the utility of a mutex when
 developing multithreaded programs. The program creates a specified
